@@ -41,13 +41,14 @@ applications, and site reliability engineering.
   - Ruby
   - Node.js
   - Rust
-  - Terraform
+  - Java
 - Framework
   - Ruby on Rails
   - FastAPI
   - Actix Web
   - Vue.js
   - React.js
+  - IaC
 - OS
   - Mac OS
   - Linux
@@ -55,9 +56,12 @@ applications, and site reliability engineering.
 - DB
   - MySQL
   - PostgreSQL
+  - MongoDB
 
 ## Work
 - Site Reliability Engineering Intern at Freee Inc
   - Jul, 2020 - Aug, 2020
 - Analyst, and Software Engineering at Estie Inc.
-  - Sep. 2018 - Aug. 2020
+  - Sep, 2018 -
+- SWE at Indeed Inc
+  - Apr, 2022
