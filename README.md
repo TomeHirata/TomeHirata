@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Tomu Hirata is a software engineer who works on web technologies. He was majoring in computer
-science, and his current interests are in Image processing, Statistics for social science, and Public Health.
+science and his current interests are in Image processing, Statistics and Machine Learning for social science, and Public Health.
 
 <!--
 [![Tomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeHirata&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ## Education
-- M.A. Master of Public Health, University College London
+- M.A. Master of Public Health, University College London (Expected Graduation: September 2025)
 - M.S. Information Science and Technology (March 2022)
   - Dept. of Mechano Informatics, University of Tokyo. Supervisor: Professor, Tatsuya Harada
 - B.E. (March 2020)
@@ -43,20 +43,21 @@ science, and his current interests are in Image processing, Statistics for socia
   - Java
   - Terraform
   - Kotlin
-- Framework
+- Backend Framework
   - Ruby on Rails
   - FastAPI
   - Actix Web
+  - Spring Framework
+- Frontend Framework
   - Vue.js
   - React.js
-  - Spring Framework
-- DB
+- Database
   - MySQL
   - PostgreSQL
   - MongoDB
 
 ## Work
-- SWE at Indeed Inc
+- Software Engineering at Indeed Inc
   - Apr, 2022 -
 - Analyst, and Software Engineering at Estie Inc.
   - Sep, 2018 -
