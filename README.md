@@ -22,20 +22,17 @@ science, and his current interests are in Image processing, Statistics for socia
 -->
 
 ## Education
-- Associate (March 2016)
-  - Junior and Senior High School at Otsuka, University of Tsukuba
-- B.E. (March 2020)
-  - Dept. of Systems Innovation, Faculty of Engineering, University of Tokyo. Supervisor: Professor, Gento Mogi
+- M.A. Master of Public Health, University College London
 - M.S. Information Science and Technology (March 2022)
   - Dept. of Mechano Informatics, University of Tokyo. Supervisor: Professor, Tatsuya Harada
-- M.A. Master of Public Health, UCL
+- B.E. (March 2020)
+  - Dept. of Systems Innovation, Faculty of Engineering, University of Tokyo. Supervisor: Professor, Gento Mogi
 
 ## Research
 - Image Processing
   - Noise Robust Video Recognition
 - NLP
   - Text Style Transfer with Self-supervised Learning
-  - Domain Adaptation
 
 ## Technologies
 - Language
@@ -59,9 +56,9 @@ science, and his current interests are in Image processing, Statistics for socia
   - MongoDB
 
 ## Work
-- Site Reliability Engineering Intern at Freee Inc
-  - Jul, 2020 - Aug, 2020
+- SWE at Indeed Inc
+  - Apr, 2022 -
 - Analyst, and Software Engineering at Estie Inc.
   - Sep, 2018 -
-- SWE at Indeed Inc
-  - Apr, 2022 - 
+- Site Reliability Engineering Intern at Freee Inc
+  - Jul, 2020 - Aug, 2020
