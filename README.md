@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Tomu Hirata is a software engineer who works on web technologies. He was majoring in computer
-science and his current interests are in Image processing, Statistics and Machine Learning for social science, and Public Health.
+science and his current interests are in Image processing, Statistics, Machine Learning for social science, and Public Health.
 
 <!--
 [![Tomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeHirata&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,27 +34,11 @@ science and his current interests are in Image processing, Statistics and Machin
 - NLP
   - Text Style Transfer with Self-supervised Learning
 
-## Technologies
-- Language
-  - Python
-  - Ruby
-  - Node.js
-  - Rust
-  - Java
-  - Terraform
-  - Kotlin
-- Backend Framework
-  - Ruby on Rails
-  - FastAPI
-  - Actix Web
-  - Spring Framework
-- Frontend Framework
-  - Vue.js
-  - React.js
-- Database
-  - MySQL
-  - PostgreSQL
-  - MongoDB
+## Experiences
+- Web backend systems with JAVA, Kotlin, Nodejs, Ruby, Rust, and Python
+- ETL pipeline built in AWS
+- Web frontend with React.js and Vue.js
+- Dev ops with Github/Gitlab actions and k8s
 
 ## Work
 - Software Engineering at Indeed Inc
