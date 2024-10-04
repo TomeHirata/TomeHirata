@@ -1,7 +1,7 @@
 ### Hi I am Tomu Hirata 👋
 
-Tomu Hirata is a software engineer who works on web technologies. He was majoring in computer
-science and his current interests are in Statistics, Machine Learning for social science, and Public Health.
+Tomu Hirata is a software engineer who works on web technologies and data science. He was majoring in computer
+science and his current interests are in Economics, Machine Learning for social science, and Public Health.
 
 <!--
 [![Tomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeHirata&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,6 +18,6 @@ science and his current interests are in Statistics, Machine Learning for social
 - Software Engineering/Data Science at Indeed Inc
   - Apr, 2022 -
 - Analyst, and Software Engineering at Estie Inc.
-  - Sep, 2018 -
+  - Sep, 2018 - Mar, 2022
 - Site Reliability Engineering Intern at Freee Inc
   - Jul, 2020 - Aug, 2020
