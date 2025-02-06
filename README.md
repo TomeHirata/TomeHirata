@@ -15,9 +15,11 @@ science and his current interests are in Economics, Machine Learning for social 
   - Dept. of Systems Innovation, Faculty of Engineering, University of Tokyo. Supervisor: Professor, Gento Mogi
 
 ## Work
+- Software Engineering at Databricks Inc
+  - Nov, 2024 -
 - Software Engineering/Data Science at Indeed Inc
-  - Apr, 2022 -
-- Analyst, and Software Engineering at Estie Inc.
+  - Apr, 2022 - Oct, 2024
+- Analyst, and Software Engineering at Estie Inc
   - Sep, 2018 - Mar, 2022
 - Site Reliability Engineering Intern at Freee Inc
   - Jul, 2020 - Aug, 2020
