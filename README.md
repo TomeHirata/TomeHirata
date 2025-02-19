@@ -1,7 +1,7 @@
 ### Hi I am Tomu Hirata 👋
 
 Tomu Hirata is a software engineer who works on web technologies and data science. He was majoring in computer
-science and his current interests are in Economics, Machine Learning for social science, and Public Health.
+science and his current interests are in Economics, Machine Learning ecosystem, and Public Health.
 
 <!--
 [![Tomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeHirata&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
