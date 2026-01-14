@@ -8,7 +8,7 @@ science and his current interests are in Economics, Machine Learning ecosystem, 
 -->
 
 ## Education
-- M.A. Master of Public Health, University College London (Expected Graduation: September 2025)
+- M.A. Master of Public Health, University College London (September 2025)
 - M.S. Information Science and Technology (March 2022)
   - Dept. of Mechano Informatics, University of Tokyo. Supervisor: Professor, Tatsuya Harada
 - B.E. (March 2020)
@@ -19,7 +19,5 @@ science and his current interests are in Economics, Machine Learning ecosystem, 
   - Nov, 2024 -
 - Software Engineering/Data Science at Indeed Inc
   - Apr, 2022 - Oct, 2024
-- Analyst, and Software Engineering at Estie Inc
+- Software Engineering/Data Science at Estie Inc
   - Sep, 2018 - Mar, 2022
-- Site Reliability Engineering Intern at Freee Inc
-  - Jul, 2020 - Aug, 2020
