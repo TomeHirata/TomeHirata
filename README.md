@@ -1,6 +1,4 @@
-### Hi I am Tomu Hirata 👋
-
-Tomu Hirata is a software engineer who works on web technologies and data science. He was majoring in computer
+Tomu is a software engineer who works on web technologies and data science. He was majoring in computer
 science and his current interests are in Economics, Machine Learning ecosystem, and Public Health.
 
 <!--
